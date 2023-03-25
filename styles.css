@@ -1,0 +1,15 @@
+body, br{background-color:#003388;background-size:cover;}
+.b {width:10%;margin:5px;font-size:1.5em;background-color:#666600; color:#ffffff}
+.bb {width 80%;margin:5px;font-size:2em;background-color:#605694; color:#ffffff}
+
+h1{color:#ffffff;font-size 4em;}
+.text{width:90%;margin:5px;font-size 2em;}
+.texth{width:00%;margin:5px;font-size:0em;}
+.ech{color:#ffffff;font-size:2em;}
+
+.page{border:1px solid #000000; background-color:#003388; width:98%;color:#ffffff;
+height: 95%;
+padding:10px;
+margin:10px;
+width:98%;
+float:left;}
