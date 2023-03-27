@@ -9,10 +9,15 @@
 <body>
 <h1> יוֹנָ֥ה</h1>
 <input class="bb" type="button" value="לֵ֧ךְ"  onclick="next1();"/>
- <audio controls>
-   <source src="sound.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio> 
+<br>
+<input class="bb" type="button" value="הַבָּא"  onclick="fd();"/>
+<input class="bb" type="button" value="קודם"  onclick="bk1();"/>
+ 
+   <audio  id="myaudio" src="sound.mp3"></audio>
+
+      <audio  id="myaudio1" src="sound2.mp3"></audio>
+
+
 <div class="page">
 <div class="text" id="read"></div>
 <div class="texth" id="english"></div>
@@ -29,10 +34,10 @@ Your browser does not support the audio element.
 <input class="bb" type="button" value="לִרְאוֹת" onclick="hd();"/>
 
 <br>
-<input class="bb" type="button" value="הַבָּא"  onclick="fd();"/>
-<input class="bb" type="button" value="קודם"  onclick="bk1();"/>
+
 
 </div>
 </div>
+<footer>Verses are taken from  "The OpenScriptures" at https://hb.openscriptures.org/The text is licensed under <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> </footer>
 </body>
 </html>
