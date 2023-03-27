@@ -1,7 +1,7 @@
 body, br{background-color:#003388;background-size:cover;}
 .b {width:10%;margin:5px;font-size:1.5em;background-color:#666600; color:#ffffff}
-.bb {width 80%;margin:5px;font-size:2em;background-color:#605694; color:#ffffff}
-
+.bb {width:20%;margin:5px;font-size:2em;background-color:#605694; color:#ffffff}
+a,footer {width:40%;color:#00ff00;font-size 1em;}
 h1{color:#ffffff;font-size 4em;}
 .text{width:90%;margin:5px;font-size 2em;}
 .texth{width:00%;margin:5px;font-size:0em;}
